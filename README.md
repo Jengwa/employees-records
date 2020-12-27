@@ -1,2 +1,3 @@
 # employees-records
 this is a employee records form that employer can keep the records of the employees 
+in this project we i used local storage to keep the records
